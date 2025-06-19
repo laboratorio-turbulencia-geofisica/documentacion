@@ -44,6 +44,7 @@
       - [optica/objetivos/nikkor/28mm-f2.8D](./optica/objetivos/nikkor/28mm-f2.8D/)
       - [optica/objetivos/nikkor/55-200mm-f4-5.6](./optica/objetivos/nikkor/55-200mm-f4-5.6/)
       - [optica/objetivos/nikkor/70-300mm-f4-5.6](./optica/objetivos/nikkor/70-300mm-f4-5.6/)
+  - [optica/polarizadores](./optica/polarizadores/)
 - [particulas](./particulas/)
 - [tripodes](./tripodes/)
   - [tripodes/vanguard](./tripodes/vanguard/)
