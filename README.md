@@ -8,6 +8,8 @@
 - [camaras](./camaras/)
   - [camaras/krontechnologies](./camaras/krontechnologies/)
     - [camaras/krontechnologies/chronos2.1-hd](./camaras/krontechnologies/chronos2.1-hd/)
+  - [camaras/nikon](./camaras/nikon/)
+    - [camaras/nikon/d90](./camaras/nikon/d90/)
   - [camaras/photron](./camaras/photron/)
     - [camaras/photron/fastcam-1024pci](./camaras/photron/fastcam-1024pci/)
     - [camaras/photron/fastcam-sa3](./camaras/photron/fastcam-sa3/)
