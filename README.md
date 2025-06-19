@@ -45,3 +45,5 @@
       - [optica/objetivos/nikkor/70-300mm-f4-5.6](./optica/objetivos/nikkor/70-300mm-f4-5.6/)
 - [particulas](./particulas/)
 - [tripodes](./tripodes/)
+  - [tripodes/tracker-1](./tripodes/tracker-1/)
+  - [tripodes/vanguard](./tripodes/vanguard/)
