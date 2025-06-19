@@ -15,6 +15,8 @@
     - [camaras/photron/fastcam-sa3](./camaras/photron/fastcam-sa3/)
 - [electronica](./electronica/)
   - [electronica/arduino](./electronica/arduino/)
+    - [electronica/arduino/due](./electronica/arduino/due/)
+      - [electronica/arduino/due/A000056-cad-files](./electronica/arduino/due/A000056-cad-files/)
     - [electronica/arduino/uno-r3](./electronica/arduino/uno-r3/)
       - [electronica/arduino/uno-r3/A000066-cad-files](./electronica/arduino/uno-r3/A000066-cad-files/)
   - [electronica/daqs](./electronica/daqs/)
