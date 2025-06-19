@@ -1,6 +1,6 @@
 # Índice de directorios
 
-- [.](././)
+- [.git](./.git/)
 - [actuadores](./actuadores/)
   - [actuadores/motores-lineales](./actuadores/motores-lineales/)
     - [actuadores/motores-lineales/linmot](./actuadores/motores-lineales/linmot/)
