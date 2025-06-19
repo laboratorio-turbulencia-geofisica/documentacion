@@ -23,6 +23,8 @@
   - [electronica/generadores-de-funciones](./electronica/generadores-de-funciones/)
     - [electronica/generadores-de-funciones/siglent-sdg1010](./electronica/generadores-de-funciones/siglent-sdg1010/)
     - [electronica/generadores-de-funciones/tektronix-afg3021b](./electronica/generadores-de-funciones/tektronix-afg3021b/)
+  - [electronica/multimetros](./electronica/multimetros/)
+    - [electronica/multimetros/protek-506](./electronica/multimetros/protek-506/)
   - [electronica/osciloscopios](./electronica/osciloscopios/)
     - [electronica/osciloscopios/siglent-sds1152cml](./electronica/osciloscopios/siglent-sds1152cml/)
 - [fluidos](./fluidos/)
