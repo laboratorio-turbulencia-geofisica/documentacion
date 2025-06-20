@@ -54,6 +54,7 @@
   - [optica/tele-converters](./optica/tele-converters/)
     - [optica/tele-converters/aroma-2x-multicoated-for-nikon](./optica/tele-converters/aroma-2x-multicoated-for-nikon/)
 - [particulas](./particulas/)
+  - [particulas/cospheric](./particulas/cospheric/)
 - [tripodes](./tripodes/)
   - [tripodes/vanguard](./tripodes/vanguard/)
     - [tripodes/vanguard/tracker-1](./tripodes/vanguard/tracker-1/)
