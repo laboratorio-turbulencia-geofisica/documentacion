@@ -35,6 +35,7 @@
   - [fluidos/aceites-siliconados](./fluidos/aceites-siliconados/)
   - [fluidos/kodak-photo-flo-200-solution](./fluidos/kodak-photo-flo-200-solution/)
   - [fluidos/tween20](./fluidos/tween20/)
+  - [fluidos/cristaltack](./fluidos/cristaltack/)
 - [iluminacion](./iluminacion/)
   - [iluminacion/laseres](./iluminacion/laseres/)
     - [iluminacion/laseres/laserquantum](./iluminacion/laseres/laserquantum/)
